@@ -1,0 +1,10 @@
+C:\RadioSimulator\RadioSimulator\RadioSimulator\bin\Debug\RadioSimulator.exe
+C:\RadioSimulator\RadioSimulator\RadioSimulator\bin\Debug\RadioSimulator.pdb
+C:\RadioSimulator\RadioSimulator\RadioSimulator\obj\Debug\RadioSimulator.csprojResolveAssemblyReference.cache
+C:\RadioSimulator\RadioSimulator\RadioSimulator\obj\Debug\RadioSimulator.RadioForm.resources
+C:\RadioSimulator\RadioSimulator\RadioSimulator\obj\Debug\RadioSimulator.Properties.Resources.resources
+C:\RadioSimulator\RadioSimulator\RadioSimulator\obj\Debug\RadioSimulator.csproj.GenerateResource.Cache
+C:\RadioSimulator\RadioSimulator\RadioSimulator\obj\Debug\RadioSimulator.exe
+C:\RadioSimulator\RadioSimulator\RadioSimulator\obj\Debug\RadioSimulator.pdb
+C:\RadioSimulator\RadioSimulator\RadioSimulator\bin\Debug\NAudio.dll
+C:\RadioSimulator\RadioSimulator\RadioSimulator\bin\Debug\NAudio.xml
